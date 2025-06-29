@@ -1,5 +1,7 @@
 package dsa;
 
+
+//All Methods are Practices of array.
 public class MountainArray {
     public static void main(String[] args) {
        int[] i = {1,2,3,4,5,6,4,3,2,1};
